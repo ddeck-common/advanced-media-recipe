@@ -15,7 +15,7 @@
         "drupal/field_formatter_class": "^1.8",
         "drupal/field_group": "^4.0",
         "drupal/helper_class": "^1.0@alpha",
-        "npm-asset/photoswipe": "^4.1",
+        "npm-asset/photoswipe": "^5.4",
         "npm-asset/plyr": "^3.8",
         "drupal/filepond": "^1.0@alpha"
     }
