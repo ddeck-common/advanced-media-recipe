@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-	"drupal/ddeck_advanced_media": "^1.0@alpha",	
+	    "drupal/ddeck_advanced_media": "^1.0@alpha",
         "drupal/field_formatter_class": "^1.8",
         "drupal/field_group": "^4.0",
         "drupal/helper_class": "^1.0@alpha",
