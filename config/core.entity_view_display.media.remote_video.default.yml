@@ -11,7 +11,7 @@ dependencies:
     - ddeck_advanced_media
 third_party_settings:
   helper_class:
-    helper_class_values: 'container-md mb-3 px-0'
+    helper_class_values: 'md:container mb-4 px-0'
 _core:
   default_config_hash: bVvab84KF6UZ6UQDcG-CJvI-JWgXRCBGWXc4K2DxuV4
 id: media.remote_video.default

@@ -1,5 +1,5 @@
 name: 'DDECK Advanced Media'
-description: 'Allow the user to contribute media in CKeditor with default Bootstrap 5 styling'
+description: 'Allow the user to contribute media in CKeditor with default Bootstrap 6 styling'
 type: 'Media'
 
 install:

@@ -14,7 +14,7 @@ dependencies:
     - image
 third_party_settings:
   helper_class:
-    helper_class_values: 'container-sm mb-3 p-3 d-flex flex-row flex-grow-1 bg-light rounded'
+    helper_class_values: 'sm:container mb-4 p-4 d-flex flex-row flex-grow-1 bg-1 rounded'
   field_group:
     group_column:
       children:
@@ -59,7 +59,7 @@ content:
       link_to_entity: false
     third_party_settings:
       field_formatter_class:
-        class: 'fs-5 fw-normal '
+        class: 'fs-lg fw-normal '
     weight: 1
     region: content
   thumbnail:

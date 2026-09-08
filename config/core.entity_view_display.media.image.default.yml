@@ -11,7 +11,7 @@ dependencies:
     - image
 third_party_settings:
   helper_class:
-    helper_class_values: 'container-md mb-3 px-0'
+    helper_class_values: 'md:container mb-4 px-0'
 _core:
   default_config_hash: 8CbALsDG5D_ZnLlIc9YToeHYyhjVnlv1lKGt7z_5OBc
 id: media.image.default

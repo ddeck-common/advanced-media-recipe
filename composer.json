@@ -1,6 +1,6 @@
 {
     "name": "ddeck-common/advanced_media_recipe",
-    "description": "Allow the user to contribute media in CKeditor with default Bootstrap 5 styling",
+    "description": "Allow the user to contribute media in CKeditor with default Bootstrap 6 styling",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",
