@@ -14,7 +14,7 @@ dependencies:
     - image
 third_party_settings:
   helper_class:
-    helper_class_values: 'sm:container mb-4 p-4 d-flex flex-row flex-grow-1 bg-1 rounded'
+    helper_class_values: 'sm:container mb-7 p-7 d-flex flex-row flex-grow-1 bg-1 rounded'
   field_group:
     group_column:
       children:

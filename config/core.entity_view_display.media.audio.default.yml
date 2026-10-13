@@ -15,7 +15,7 @@ dependencies:
     - ddeck_advanced_media
 third_party_settings:
   helper_class:
-    helper_class_values: 'advanced-media--audio sm:container mb-4 p-4 d-flex flex-row flex-grow-1 bg-1 rounded'
+    helper_class_values: 'advanced-media--audio sm:container mb-7 p-7 d-flex flex-row flex-grow-1 bg-1 rounded'
   field_group:
     group_column:
       children:
@@ -55,7 +55,7 @@ content:
         attribute: lazy
     third_party_settings:
       field_formatter_class:
-        class: 'd-none sm:d-flex me-2 rounded overflow-hidden bg-white'
+        class: 'd-none sm:d-flex me-3 rounded overflow-hidden bg-white'
     weight: 0
     region: content
   field_media_audio_file:
@@ -93,7 +93,7 @@ content:
       link_to_entity: false
     third_party_settings:
       field_formatter_class:
-        class: 'ps-2 fs-lg fw-normal text-truncate'
+        class: 'ps-3 fs-lg fw-normal text-truncate'
     weight: 0
     region: content
 hidden:

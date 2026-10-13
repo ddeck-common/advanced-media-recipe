@@ -11,7 +11,7 @@ dependencies:
     - ddeck_advanced_media
 third_party_settings:
   helper_class:
-    helper_class_values: 'md:container mb-4 px-0'
+    helper_class_values: 'md:container mb-7 px-0'
 _core:
   default_config_hash: 9QwjC8-v9UEC99AmqIDKYdX3bbeFomAnnyPgEVx0S1Y
 id: media.video.default
